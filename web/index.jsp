@@ -1,7 +1,8 @@
 <%-- 
-    Document   : index
-    Created on : 26/06/2015, 17:28:58
-    Author     : Fabrício
+
+Essa página mostra saída com a configuração do URL-Pattern no XML.
+
+fabricio.ayres@gmail.com - Fabricio Ayres Vieira 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
