@@ -1,8 +1,13 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+Classe OlaMundo e subclasse HttpServlet
+Acrescentam a página index.html com utilização do componente ou classe HttpservletRequest
+com carateristicas do atributo getWriter e getContextPath().
+
+fabricio.ayres@gmail.com - Fabricio Ayres Vieira 
+
+*/
+
 package br;
 
 import java.io.IOException;
